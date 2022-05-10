@@ -12,10 +12,10 @@ idea2022.1 破解过程（含破解插件）
 之后打开idea点开
 ![2](./img/03.png)
 
-在下面输入（就是自己ja-netfilter.jar的路径）
+在下面输入（就是自己ja-netfilter.jar的路径）<br/>
 -javaagent:路径/ja-netfilter.jar
-
-(例：)-javaagent:/Applications/IntelliJ IDEA.app/Contents/ja-netfilter/ja-netfilter.jar
+<br/>
+(例) -javaagent:/Applications/IntelliJ IDEA.app/Contents/ja-netfilter/ja-netfilter.jar
 
 之后重新启动idea，打开注册，选择激活
 输入 http://adsk06.tpu.ru:8080
